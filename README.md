@@ -1,5 +1,15 @@
 <h1 align="center">BlueSky Engagement Automation</h1>
 
+## Project Overview:
+This project is a stealthy automation system built for BlueSky, designed to mimic natural human behavior while performing high-volume engagement tasks—like follows, likes, comments, DMs, and content posting. It tackles the growing demand for influencer-style growth tools that bypass basic rate limits and detection algorithms on decentralized platforms.
+
+Perfect for social media marketers, brand managers looking to boost visibility on BlueSky, this tool automates day-to-day engagement tasks at scale—without getting flagged or throttled.
+
+## Core Features:
+- **Stealth-first automation** using rotating proxies, random delays, and advanced fingerprint spoofing for high undetectability.
+- **Modular control** for tasks like follow/unfollow, liking, mass DMs, and post scheduling—each with configurable behavior.
+- **Horizontal scalability**, allowing hundreds of concurrent sessions with isolated identities.
+
 <div align="center">
   <img
     src="https://github.com/user-attachments/assets/d200549d-7613-446f-a43b-19a4117ca360"
@@ -62,16 +72,6 @@
 <span>
 
 <div align="left">
-
-## Project Overview:
-This project is a stealthy automation system built for BlueSky, designed to mimic natural human behavior while performing high-volume engagement tasks—like follows, likes, comments, DMs, and content posting. It tackles the growing demand for influencer-style growth tools that bypass basic rate limits and detection algorithms on decentralized platforms.
-
-Perfect for social media marketers, brand managers looking to boost visibility on BlueSky, this tool automates day-to-day engagement tasks at scale—without getting flagged or throttled.
-
-## Core Strengths:
-- **Stealth-first automation** using rotating proxies, random delays, and advanced fingerprint spoofing for high undetectability.
-- **Modular control** for tasks like follow/unfollow, liking, mass DMs, and post scheduling—each with configurable behavior.
-- **Horizontal scalability**, allowing hundreds of concurrent sessions with isolated identities.
 
 ## Features List:
 | Feature                    | Description                                                                                                    |
